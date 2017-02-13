@@ -4,5 +4,4 @@ Change to the edits branch
 
 Another change #2 
 Or maybe #3?
-
-#4 is coming!
+nvm 4 is coming should be in lowercase.
